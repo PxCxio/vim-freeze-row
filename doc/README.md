@@ -1,6 +1,6 @@
 # vim-row-freeze
 
-A Vim plugin that allows you to freeze a row and create a split window with scroll binding.
+A Vim plugin that allows you to freeze a text row/line and create a split window with scroll binding.
 
 ## Installation
 
